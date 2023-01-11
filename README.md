@@ -6,7 +6,7 @@
 ## **Hello👋**  
   
 
-### <div align="center">I'm Siva prasad , a enthusiastic coder 👨‍💻 exploring web technologies🌐</div>  
+### <div align="center">I'm Siva prasad , an enthusiastic coder 👨‍💻 exploring web technologies🌐</div>  
   
 
 -  🔨 I build websites  
