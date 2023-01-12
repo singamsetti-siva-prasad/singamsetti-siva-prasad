@@ -64,8 +64,7 @@
 <br/>  
 
 
-  ![siva prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=singamsetti-siva-prasad&show_icons=true&theme=radical)
-
+s
 
 <br/>  
 
