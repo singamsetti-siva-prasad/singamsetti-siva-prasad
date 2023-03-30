@@ -9,10 +9,11 @@
 ### <div align="center">I'm Siva prasad , an enthusiastic coder 👨‍💻 exploring web technologies🌐</div>  
   
 
--  🔨 I build websites  
+-  🔨 I build websites using MERN Stack 
   
 
-- 🌱 I’m currently learning MERN stack  
+- 🌱 I’m currently learning learning web 3.0  
+
   
 
 - ❓ Ask me about anything related to React JS and related technologies  
